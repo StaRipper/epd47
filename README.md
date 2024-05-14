@@ -1,0 +1,2 @@
+# epd47
+EPD47 Liligo 4.7 ESP32S3
